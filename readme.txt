@@ -31,8 +31,8 @@ Plugin dont work on no standard WP theme.We included simple guide inside the plu
 
 == Screenshots ==
 
-1. Hello world post before plugin activation
-2. Hello world post after plugin activation 
+1. Hello-world-before.png
+2. Hello-world-after.png
 
 == Changelog ==
 
