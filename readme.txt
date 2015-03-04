@@ -26,7 +26,8 @@ http://practicalprogrammers.net/contact-us OR http://facebook.com/kirpekar1
 == Frequently Asked Questions ==
 
 = Meta data is still present even after activation.
-Plugin dont work on no standard WP theme.We included simple guide inside the plugin. You can follow the guide to remove meta from your favorite theme.
+
+Plugin dont work on non standard WP theme.We included simple guide inside the plugin. You can follow the guide to remove meta from your favorite theme.
 
 
 == Screenshots ==
