@@ -19,5 +19,6 @@
 	<li>page.php</li>
 </ul>
 	Erase that whole code block which included that line,save files and reload page and see effect <strong>Meta is gone</strong> 
-	<br><br><h2><span style="color: #0000ff;">Didn't Worked? <a href="http://facebook.com/kirpekar1">Tell me</a> i will edit your theme.</span></h2>
+	<br><h2><a href="http://practicalprogrammers.net/wp-meta-and-date-remover-feedback">Give us feedback </a>and help us to make this plugin better. It takes less than 10 seconds</h1>	
+	<br><h2><span style="color: #0000ff;">Didn't Worked? <a href="http://facebook.com/kirpekar1">Tell me</a> i will edit your theme.</span></h2>
 </div>
