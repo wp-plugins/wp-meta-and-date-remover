@@ -20,5 +20,6 @@
 </ul>
 	Erase that whole code block which included that line,save files and reload page and see effect <strong>Meta is gone</strong> 
 	<br><h2><a href="http://practicalprogrammers.net/wp-meta-and-date-remover-feedback">Give us feedback </a>and help us to make this plugin better. It takes less than 10 seconds</h1>	
-	<br><h2><span style="color: #0000ff;">Didn't Worked? <a href="http://facebook.com/kirpekar1">Tell me</a> i will edit your theme.</span></h2>
+	<br><h2><span style="color: #0000ff;">Didn't Worked? <a href="http://practicalprogrammers.net/contact-us">Tell me</a> i will edit your theme.</span></h2>
+	<br><h2>Also consider giving a <a href="http://practicalprogrammers.net/wp-meta-and-date-remover-feedback">feedback.</a> it takes only few seconds </h2>
 </div>
