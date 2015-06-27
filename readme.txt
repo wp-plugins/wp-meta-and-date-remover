@@ -3,7 +3,7 @@ Contributors: Prasad Kirpekar
 Donate link: -
 Tags: free,theme,meta,date,author, website, posts, pages, metadata, post, home page, remover, entry-meta, css,front page
 Requires at least: 3.0.1
-Tested up to: 4.1
+Tested up to: 4.2
 Stable tag: 1.1.0
 stable.
 License: GPLv3
