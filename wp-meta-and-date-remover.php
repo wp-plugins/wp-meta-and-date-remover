@@ -25,7 +25,7 @@ Copyright: Prasad Kirepkar
 */
 
 function extra_links($links){
-$guide_link = '<a href=http://practicalprogrammers.net/wordpress-meta-removal-guide">Guide to remove meta</a>';
+$guide_link = '<a href=http://practicalprogrammers.net/wordpress-meta-removal-guide/">Guide to remove meta</a>';
   array_unshift($links, $guide_link);
   return $links;
 }
