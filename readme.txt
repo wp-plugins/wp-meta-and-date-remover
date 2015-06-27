@@ -3,17 +3,21 @@ Contributors: Prasad Kirpekar
 Donate link: -
 Tags: free,theme,meta,date,author, website, posts, pages, metadata, post, home page, remover, entry-meta, css,front page
 Requires at least: 3.0.1
-Tested up to: 4.2
-Stable tag: 1.0.0
-License: GPLv2
+Tested up to: 4.1
+Stable tag: 1.1.0
+stable.
+License: GPLv3
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 Remove meta information from posts and pages. Just plug and play.
 
 == Description ==
 
-WP Meta and date remover can removes Author name,Date and other information from pages and posts.Plugin works on every standard WP theme including 2011 to 2015. Plugin also includes simple guide which works for every non standard WP theme.Plugin also includes simple guide which works for every non standard WP theme.
-== Installation ==
+WP meta and date remover is capable to remove meta and date information from posts and pages. 
+Plugin works on every standard,free,premium,bootstrap based wordpress themes. 
+plugin uses two methods to remove meta data, which means it support almost all themes.
+You also can follow <a href="http://practicalprogrammers.net/wordpress-meta-removal-guide">my genuine guide</a>. It works for every theme.  
+
 
 1. Install the plugin from the plugins directory, or upload the wp-meta-and-date-remove folder to the `/wp-content/plugins/` directory.
 2. Activate the plugin through the 'Plugins' menu in WordPress
@@ -25,7 +29,7 @@ http://practicalprogrammers.net/contact-us OR http://facebook.com/kirpekar1
 
 = Meta data is still present even after activation.
 
-Plugin dont work on non standard WP theme.We included simple guide inside the plugin. You can follow the guide to remove meta from your favorite theme.
+Sometimes plugin don't work on some themes.For this You can follow <a href="http://practicalprogrammers.net/wordpress-meta-removal-guide">my genuine guide</a> to remove meta from your favourite theme.
 
 
 == Screenshots ==
@@ -34,5 +38,9 @@ Plugin dont work on non standard WP theme.We included simple guide inside the pl
 2. Hello-world-after.png
 
 == Changelog ==
+
+1.1.0
+Improved previous css code.
+Added new php based method to filter meta information.
 
 
