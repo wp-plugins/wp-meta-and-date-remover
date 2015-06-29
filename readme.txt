@@ -16,7 +16,7 @@ Remove meta information from posts and pages. Just plug and play.
 WP meta and date remover is capable to remove meta and date information from posts and pages. 
 Plugin works on every standard,free,premium,bootstrap based wordpress themes. 
 plugin uses two methods to remove meta data, which means it support almost all themes.
-You also can follow <a href="http://practicalprogrammers.net/wordpress-meta-removal-guide">my genuine guide</a>. It works for every theme.  
+You also can follow my genuine guide that works for every theme.  
 
 
 1. Install the plugin from the plugins directory, or upload the wp-meta-and-date-remove folder to the `/wp-content/plugins/` directory.
@@ -29,7 +29,7 @@ http://practicalprogrammers.net/contact-us OR http://facebook.com/kirpekar1
 
 = Meta data is still present even after activation.
 
-Sometimes plugin don't work on some themes.For this You can follow <a href="http://practicalprogrammers.net/wordpress-meta-removal-guide">my genuine guide</a> to remove meta from your favourite theme.
+Sometimes plugin don't work on some themes.For this You can follow <a href="http://practicalprogrammers.net/wordpress-meta-removal-guide/">my genuine guide</a> to remove meta from your favourite theme.
 
 
 == Screenshots ==

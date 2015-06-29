@@ -51,6 +51,8 @@ add_filter('get_the_title', '__return_false');
 add_filter('get_the_time', '__return_false');
 add_filter('get_the_modified_date', '__return_false');
 } 
+
+//do everything 
 add_action('wp_head', 'remove_meta_css');
 add_filter("plugin_action_links_$plugin", 'extra_links' );
 add_action('loop_start', 'remove_meta_php');
