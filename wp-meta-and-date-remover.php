@@ -25,7 +25,7 @@ Copyright: Prasad Kirepkar
 */
 
 function extra_links($links){
-$guide_link = '<a href=http://practicalprogrammers.net/wordpress-meta-removal-guide">Guide to remove meta</a>';
+$guide_link = '<a href="https://geekyprogramming.wordpress.com/2015/06/12/wordpress-meta-removal-guide/">Guide to remove meta</a>';
   array_unshift($links, $guide_link);
   return $links;
 }
@@ -51,6 +51,8 @@ add_filter('get_the_title', '__return_false');
 add_filter('get_the_time', '__return_false');
 add_filter('get_the_modified_date', '__return_false');
 } 
+
+//do everything 
 add_action('wp_head', 'remove_meta_css');
 add_filter("plugin_action_links_$plugin", 'extra_links' );
 add_action('loop_start', 'remove_meta_php');
