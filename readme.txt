@@ -24,12 +24,12 @@ You also can follow my genuine guide that works for every theme.
 
 
 == Contact me ==
-http://practicalprogrammers.net/contact-us OR http://facebook.com/kirpekar1
+http://facebook.com/kirpekar1 or put comment on https://geekyprogramming.wordpress.com/2015/06/12/wordpress-meta-removal-guide/
 == Frequently Asked Questions ==
 
 = Meta data is still present even after activation.
 
-Sometimes plugin don't work on some themes.For this You can follow <a href="http://practicalprogrammers.net/wordpress-meta-removal-guide/">my genuine guide</a> to remove meta from your favourite theme.
+Sometimes plugin don't work on some themes.For this You can follow <a href="https://geekyprogramming.wordpress.com/2015/06/12/wordpress-meta-removal-guide/">my genuine guide</a> to remove meta from your favourite theme.
 
 
 == Screenshots ==
